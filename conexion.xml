@@ -1,0 +1,6 @@
+<conexion>
+    <server>jdbc:mysql://localhost:3306</server>
+    <database>atmbd</database>
+    <username>root</username>
+    <password></password>
+</conexion>
